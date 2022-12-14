@@ -1,0 +1,2 @@
+# WhatToEat
+init
